@@ -7,7 +7,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className=" h-screen flex flex-col justify-center items-center content-center">
-        <p className="text-5xl">Rahulsya. Is Work In Progress</p>
+        <p className="text-5xl">Rahulsya. under construction .</p>
         {/* <button className="px-3 py-2 mt-5">Dark</button> */}
       </div>
     </div>
