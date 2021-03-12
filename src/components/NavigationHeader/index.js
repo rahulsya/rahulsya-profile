@@ -4,8 +4,8 @@ import Image from "next/image";
 export const NavigationHeader = () => {
   const { theme, setTheme } = useTheme();
   return (
-    <div className="dark:bg-gray-900 bg-white py-4 shadow-md">
-      <div className="container mx-auto px-32 flex justify-between items-center">
+    <div className="dark:bg-gelap-primary bg-white py-4 shadow-md">
+      <div className="container mx-auto px-5 lg:px-32 flex justify-between items-center">
         <div className="h-10 w-10 flex items-center justify-center bg-gray-500 text-white rounded-full">
           RA
         </div>
